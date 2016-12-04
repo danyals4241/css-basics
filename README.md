@@ -15,7 +15,7 @@ Observe the files in this repo:
 * Fork and clone this repo.
 * Follow all of the directions in `index.html`.  
   * You only need the preview; you shouldn't need the raw code.
-  * Note: the preview looks better in the pop-out window of **cloud9**.
+  * Note: the preview looks better in the popA-out window of **cloud9**.
 * When you are finished, the preview should look like `result.png`.
 * Beautify your code.  
   * _NOTE: the cloud9 keyboard shortcut is_ `⌘+shift+B`
